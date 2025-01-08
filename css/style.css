@@ -9,7 +9,8 @@ body {
   font-family: "Confortaa", sans-serif;
   padding: 0;
   margin: 0;
-  background-color: #1a2730;
+  /* background-color: #1a2730; */
+  background: linear-gradient(90deg, #1a2730, #1e385a);
   color: #b0cee2;
 }
 
@@ -92,6 +93,7 @@ main {
   overflow: -moz-scrollbas-none;
   box-shadow: 0px 0px 80px #f3c9ff2e;
   border-radius: 10px;
+  padding-top: 15px;
 }
 
 .slider::-webkit-scrollbar {
