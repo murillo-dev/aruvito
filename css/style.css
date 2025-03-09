@@ -130,3 +130,5 @@ main {
 .fab {
   font-size: 40px;
 }
+
+#map { height: 180px; }
